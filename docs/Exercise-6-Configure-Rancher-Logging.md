@@ -156,7 +156,6 @@ key = **password**  (from the dropdown)
 
 Click on **Create**
 
-![Rancher-logging-configuration-cluster-output-12](../images/Rancher-logging-configuration-cluster-output-12.jpg)
 
 ![image](https://user-images.githubusercontent.com/74942851/157385388-3b597656-3459-438d-95b6-64f06af9475c.png)
 
