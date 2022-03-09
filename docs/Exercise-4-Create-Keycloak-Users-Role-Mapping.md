@@ -284,7 +284,7 @@ Now repeat above steps of adding users to respective groups as below.
 
 
 
-Now assign **admin** user to all **groups**
+Now assign **admin** user to all **groups** (중요!!! keycloak admin 계정에 생성한 모든 그룹을 추가해주어야 함)
 
 Home > Manage > Users
 
